@@ -70,6 +70,6 @@ Das Hosting wird durch GitHub.com durchgeführt und daher gelten die von dort vo
 
 **Behandlung Urheber Recht**
 
-Zu dem Thema finden Sie mehr unter der gleichnamigen Seite [Urheber](/urheber.html)
+Zu dem Thema finden Sie mehr unter der gleichnamigen Seite [Urheber](/impressum/urheber.html)
 
 **Kommentare (derzeit kein Plugin eingebaut)**

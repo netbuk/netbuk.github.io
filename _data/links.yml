@@ -1,6 +1,9 @@
 - url: /
   title: Home
 
+- url: http://forum.netbuk.dk
+  title: Forum
+
 - url: /about
   title: About
 

@@ -1,6 +1,9 @@
 - url: /
   title: Home
 
+- url: /big pictures
+  title: Pictures
+
 - url: http://forum.netbuk.dk
   title: Forum
 

@@ -5,10 +5,10 @@ title: Impressum
 
 ##Angaben gemäß §5 TMG (Telemediengesetz)
 
-<p>Christian Kantelberg
-Obergasse 8
-65624 Altendiez
-Germany / Deutschland</p>
+Christian Kantelberg<br />
+Obergasse 8<br />
+65624 Altendiez<br />
+Germany / Deutschland<br />
 
 ##Kontakt
 
@@ -21,9 +21,9 @@ Germany / Deutschland</p>
 
 ##Verantwortlich für den Inhalt (gem. § 55 Abs. 2 RStV):
 
-<p>Christian Kantelberg
-Obergasse 8
-65624 Altendiez</p>
+Christian Kantelberg<br />
+Obergasse 8<br />
+65624 Altendiez<br />
 
 ###Bildrechte:
 

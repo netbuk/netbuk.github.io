@@ -23,12 +23,12 @@ compress_html:
     envs: [travis]
 # theme
 noita:
-  name: Noita
-  description: Jekyll theme built with Foundation
+  name: netbuk.blog
+  description: Untertitel Text
   author:
-    name: Anatol Broder
-    url: http://penibelst.de/
-  lang: en
+    name: Christian Kantelberg
+    url: http://netbuk.github.io/
+  lang: de
   favicons:
     - /assets/2014/04/21/favicon-152.png
   topbar:

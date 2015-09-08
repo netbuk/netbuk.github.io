@@ -1,7 +1,7 @@
 name: 				netbuk.blog
 markdown: 			redcarpet
 highlighter: 		pygments
-url: 				http://netbuk.github.io
+url: 				http://netbuk.github.io/
 paginate: 5
 description:		Kleiner privater Jekyll Blog
 intro:				Das ist das Intro

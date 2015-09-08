@@ -1,0 +1,76 @@
+# Site settings
+title: dnetbuk blog
+description: netbuk blog
+favicon: /assets/img/avatar.JPG
+baseurl:
+url: http://netbuk.github.io
+rss_url: /pages/atom.xml
+
+# Build settings
+markdown: kramdown
+
+# Author settings
+author:
+  name: Christian 'netbuk' Kantelberg
+  title: Blogger & ITSec
+  address: Altendiez, Deutschland
+  email: christian@netbuk.de
+  link: http://netbuk.github.io
+  weibo:
+  github: netbuk
+  linkedin: 
+  twitter: der__k
+  gavatar: /assets/img/avatar.JPG
+  workHistory:
+    - work1:
+      company: Finzsoft Solutions Ltd
+      location: Auckland, New Zealand
+      title: Java Developer
+      started: 2014
+      duration: (2014 - Present)
+      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+    - work2:
+      company: Agfa HealthCare
+      location: Shanghai, China
+      title: Java Developer
+      started: 2012
+      duration: (2012 - 2014)
+      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+    - work3:
+      company: Citigroup Services and Technology (China) Limited
+      location: Shanghai, China
+      title: Java Developer
+      started: 2009
+      duration: (2009 - 2012)
+      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+  educationHistory:
+    - education1:
+      organization: Northeastern University
+      degree: Bachelor
+      major: Software Engineering
+      started: 2005
+      duration: (2005 - 2009)
+      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+  languages:
+    - language1:
+      name: Deutsch
+      proficiency: Native
+    - language2:
+      name: English
+      proficiency: School
+    - language3:
+      name: France
+      proficiency: School
+  programmingSkills:
+    - skill1:
+      name: HTML
+      percentage: 100%
+    - skill2:
+      name: PHP
+      percentage: 20%
+    - skill3:
+      name: Perl
+      percentage: 10%
+    - skill4:
+      name: Python
+      percentage: 10%

@@ -20,3 +20,5 @@ dribbble_username:    # Replace this with your Dribbble username
 
 # Build settings
 markdown: kramdown
+
+paginate: 5

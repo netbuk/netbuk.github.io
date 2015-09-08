@@ -3,8 +3,7 @@
 title: netbuk.blog # Title of your site
 email: christian@netbuk.de # Your contant email
 
-description: > # this means to ignore newlines until "baseurl:"
-  Beschreibung
+description: kleiner privater technik blog
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://netbuk.github.io" # the base hostname & protocol for your site
 

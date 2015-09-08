@@ -63,13 +63,13 @@ Quelle: Impressum-Vorlage von www.juraforum.de
 
 ##weitere rechtliche Themen/ Hinweisen/ Informationen:
 
-##Datenschutz
+###Datenschutz
 
 Zum Thema Datenschutz gibt es eigentlich nicht viel zu schreiben. Der Blog an sich nutzt keine Datenbank o.ä.
 Das Hosting wird durch GitHub.com durchgeführt und daher gelten die von dort vorgegebenen Regeln und Informationen. Einfluß habe ich darauf keinen.
 
-##Behandlung Urheber Recht
+###Behandlung Urheber Recht
 
 Zu dem Thema finden Sie mehr unter der gleichnamigen Seite [Urheber](/impressum/urheber.html)
 
-##Kommentare (derzeit kein Plugin eingebaut)
+###Kommentare (derzeit kein Plugin eingebaut)

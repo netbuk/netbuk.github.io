@@ -1,0 +1,33 @@
+name: 				netbuk.blog
+markdown: 			redcarpet
+highlighter: 		pygments
+url: 				http://netbuk.github.io
+paginate: 5
+description:		Kleiner privater Jekyll Blog
+intro:				Das ist das Intro
+logo:				logo.png
+disqus_shortname:	derkantelberg
+# url: http://gotchacode.com
+#Comment out url when working locally to resolve base urls correctly
+#url:
+
+# Owner/author information
+owner:
+  name:				Christian Kantelberg
+  avatar:			<avatar-image-link>
+  email:			christian@netbuk.de
+  # Social networking links used in footer. Update and remove as you like.
+  twitter:			der__k
+  github:			netbuk
+  stackexchange:
+  # For Google Authorship https://plus.google.com/authorship
+  google_plus:
+
+# Analytics and webmaster tools stuff goes here
+google_analytics:
+google_verify:
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
+
+# Links to include in top navigation
+# For external links add external: true

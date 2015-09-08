@@ -66,7 +66,7 @@ Quelle: Impressum-Vorlage von www.juraforum.de
 ###Datenschutz
 
 Zum Thema Datenschutz gibt es eigentlich nicht viel zu schreiben. Der Blog an sich nutzt keine Datenbank o.ä.
-Das Hosting wird durch GitHub.com durchgeführt und daher gelten die von dort vorgegebenen Regeln und Informationen. Einfluß habe ich darauf keinen.
+Das Hosting wird durch [GitHub.com](https://github.com) durchgeführt und daher gelten die von dort vorgegebenen [Regeln und Informationen](https://help.github.com/articles/github-privacy-policy/). Einfluß habe ich darauf keinen.
 
 ###Behandlung Urheber Recht
 

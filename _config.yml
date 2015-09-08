@@ -3,8 +3,8 @@ markdown: 			redcarpet
 highlighter: 		pygments
 url: 				http://netbuk.github.io/
 paginate: 5
-description:		Kleiner privater Jekyll Blog
-intro:				Das ist das Intro
+description:		netbuk.blog
+intro:				
 logo:				logo.png
 disqus_shortname:	derkantelberg
 # url: http://gotchacode.com

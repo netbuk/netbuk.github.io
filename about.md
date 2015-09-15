@@ -8,8 +8,7 @@ banner_image_alt: About me
 
 Hi, mein Name ist Christian Kantelberg - Blogger, Gamer, Linux Nerd & IT-Sec Manager.
 
-Ich liebes es auf [Steam] [Steam] zu zocken und lasse mittlerweile Windows links liegen. Meine Clients laufen mit [Arch][Arch] Linux und mein Server mit CentOS.
-on [Jekyll][jekyll] and [Processwire CMS/CMF][pw].
+Ich liebes es auf [Steam][Steam] zu zocken und lasse mittlerweile Windows links liegen. Meine Clients laufen mit [Arch Linux][Arch] und mein Server mit [CentOS][CentOS].
 
 ### Contact me
 
@@ -22,3 +21,4 @@ mich auf
 
 [Arch]: http://archlinux.de
 [Steam]: http://steamcommunity.com
+[CentOS]: https://www.centos.org/

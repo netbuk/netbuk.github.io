@@ -6,19 +6,19 @@ banner_image: sample-banner-image-2.jpg
 banner_image_alt: About me
 ---
 
-Hi, I am Tom Warlker. I am a professional UI/UX designrer and web developer. I love being minimal and creative.
+Hi, mein Name ist Christian Kantelberg - Blogger, Gamer, Linux Nerd & IT-Sec Manager.
 
-I prefer to serve with Php and Ruby based stacks and also love to work 
+Ich liebes es auf [Steam] [Steam] zu zocken und lasse mittlerweile Windows links liegen. Meine Clients laufen mit [Arch][Arch] Linux und mein Server mit CentOS.
 on [Jekyll][jekyll] and [Processwire CMS/CMF][pw].
 
 ### Contact me
 
-Say `Hello` at gayanvirajith@gmail.com or find
-me on
+Sag `Hello` auf christian@netbuk.de oder finde
+mich auf 
 
 ---
 
 {% include social.html %}
 
-[pw]: http://processwire.com
-[jekyll]: http://jekyllrb.com
+[Arch]: http://archlinux.de
+[Steam]: http://steamcommunity.com

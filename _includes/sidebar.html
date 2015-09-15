@@ -29,6 +29,12 @@ styles and `#sidebar-toggle-checkbox` for behavior.
       Home
     </a>
 
+    <a class="sidebar-nav-item" 
+      href="http://forum.netbuk.dk/"
+      target="_blank">
+      Forum
+    </a>
+
     {% for item in site.data.main-nav %}
     {% assign item_url = item.href | append:"/" %}
     {% if item_url == page.url %}

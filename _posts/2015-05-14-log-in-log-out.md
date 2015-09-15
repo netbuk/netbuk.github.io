@@ -14,4 +14,4 @@ Tatsächlich wurde ich nicht enttäuscht. Die Version 3.8 stand immer noch als H
 Auf der Projektseite gab es zwar ein Update in Form einer tar.gz, welches sich aber nicht installieren lies (vielleicht habe ich mich auch zu doof angestellt). Aber wofür gibt es denn Suchmaschinen.
 Im Launchpad fand ich dann eine interessante [PPA von Nate Muench](https://launchpad.net/~n-muench/+archive/ubuntu/programs-ppa). Diese hinzugefügt und ab ging die Post.
 Nun ja, nicht ganz. Denn die wesentlichen Pakete für 3.10.3 wurden zurückgehalten. Verdammt.
-Also noch ein 'dist-upgrade' hinter her gejagt und dann war es endlich soweit. Version 3.10.3 war auf meiner Maschine und verband sich fröhlich mit meinem Uberspace.
+Also noch ein `dist-upgrade` hinter her gejagt und dann war es endlich soweit. Version 3.10.3 war auf meiner Maschine und verband sich fröhlich mit meinem Uberspace.

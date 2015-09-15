@@ -6,20 +6,20 @@ banner_image: blog1.jpg
 banner_image_alt: Impressum
 ---
 
-##Angaben gemäß §5 TMG (Telemediengesetz)
+## Angaben gemäß §5 TMG (Telemediengesetz)
 
 Christian Kantelberg
 Obergasse 8
 65624 Altendiez
 Germany / Deutschland
 
-##Kontakt
+## Kontakt
 
     Telefon: +49 (0) 176 5678 zero four eight 3 (D1 Telekom)
     E-Mail: christian[ät]netbuk.de (statt “[ät]“, bitte “@” eingeben)
     Twitter: twitter.com/der__k
 
-##Verantwortlich für den Inhalt (gem. § 55 Abs. 2 RStV):
+## Verantwortlich für den Inhalt (gem. § 55 Abs. 2 RStV):
 
 Christian Kantelberg
 Obergasse 8

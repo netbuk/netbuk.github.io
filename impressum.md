@@ -96,7 +96,7 @@ Die Datenrichtlinien von Disqus findet ihr in der [privacy policy][privacy polic
 
 #####Datenerhebung, -speicherung und -nutzung
 
-DISQUS wird über dessen Betreiber in den USA verwaltet und von dort bereitgestellt, der originär verantwortliche Stelle im Sinne des Datenschutzrechts ist. Es gelten insoweit die Datenschutzhinweise und Nutzungsbedingungen von disqus.com, abrufbar unter https://help.disqus.com/customer/portal/articles/466259-privacy-policy und https://help.disqus.com/customer/portal/articles/466260-terms-of-service.
+DISQUS wird über dessen Betreiber in den USA verwaltet und von dort bereitgestellt, der originär verantwortliche Stelle im Sinne des Datenschutzrechts ist. Es gelten insoweit die Datenschutzhinweise und Nutzungsbedingungen von disqus.com, abrufbar unter [https://help.disqus.com/customer/portal/articles/466259-privacy-policy] und [https://help.disqus.com/customer/portal/articles/466260-terms-of-service].
 
 DISQUS erhebt und verarbeitet die im Zuge der Kommentierung angegebenen personenbezogenen Daten, sowohl in Bezug auf die Nutzung eines bestehenden DISQUS-Accounts, darüber hinaus aber auch, wenn die Kommentierungs-Funktion als „Gast“ genutzt wird. Bei der Anmeldung zu DISQUS über einen dritten Dienst (z.B. Facebook-, Twitter-, Yahoo- oder OpenID-Account), werden auch von diesen Anbietern möglicherweise Daten erhoben, gespeichert, verarbeitet und genutzt. Einzelheiten dazu finden sich in den Datenschutzbestimmungen des jeweiligen Anbieters.
 

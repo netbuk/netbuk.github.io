@@ -66,7 +66,7 @@ Soweit besondere Bedingungen für einzelne Nutzungen dieser Website von den vorg
 ###Datenschutz
 
 Zum Thema Datenschutz gibt es eigentlich nicht viel zu schreiben. Der Blog an sich nutzt keine Datenbank o.ä.
-Das Hosting wird durch [GitHub.com][Github] durchgeführt und daher gelten die von dort vorgegebenen Regeln und Informationen. Einfluß habe ich darauf keinen.
+Das Hosting wird durch [GitHub.com][Github] durchgeführt und daher gelten die von dort vorgegebenen Regeln ([Terms][ghterms] & [Privacy][ghprivacy]) und Informationen. Einfluß habe ich darauf keinen.
 
 ###Behandlung Urheber Recht
 
@@ -142,3 +142,5 @@ Von SMS, WhatsApp, Facebook, Google+ Anfragen bitte ich ab zu sehen. Diese werde
 [privacy policy]: https://help.disqus.com/customer/portal/articles/466259-privacy-policy
 [terms of service]: https://help.disqus.com/customer/portal/articles/466260-terms-of-service
 [Urheber]: http://de.wikipedia.org/wiki/Urheber
+[ghterms]: https://help.github.com/articles/github-terms-of-service/
+[ghprivacy]: https://help.github.com/articles/github-privacy-policy/

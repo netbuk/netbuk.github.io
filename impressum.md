@@ -63,8 +63,6 @@ Soweit besondere Bedingungen für einzelne Nutzungen dieser Website von den vorg
 
 *Quelle: Impressum-Vorlage von [www.juraforum.de][juraforum]*
 
-####weitere rechtliche Themen/ Hinweisen/ Informationen:
-
 ###Datenschutz
 
 Zum Thema Datenschutz gibt es eigentlich nicht viel zu schreiben. Der Blog an sich nutzt keine Datenbank o.ä.

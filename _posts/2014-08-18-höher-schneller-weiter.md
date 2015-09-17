@@ -2,7 +2,7 @@
 layout: post
 title:  "Höher, schneller, weiter"
 date:   2014-08-18 
-banner_image: blog.png
+banner_image: blog.jpg
 categories: blog server
 comments: true
 ---

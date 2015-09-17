@@ -95,4 +95,4 @@ In der UBrowser.int folgendes ändern:
     TOServers=TO Server 3.5
 
 Ergebnis und Siegerehrung sind dann zwei neue Schaltflächen für alle Server (versionsunabhängig) und für v3.5.
-![Masterserver_down](https://netbuk.github.io/_data/images/masterser_down.jpg)
+![Masterserver_down](https://netbuk.github.io/_data/images/masterserver_down.jpg)

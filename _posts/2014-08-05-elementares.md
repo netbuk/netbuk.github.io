@@ -3,8 +3,8 @@ layout: post
 title:  "Elementares"
 date:   2014-08-05 
 banner_image: eos.png
-comments: true
 categories: linux os
+comments: true
 ---
 In der Linux Welt Ausgabe 05/2014 befindet sich ein interessanter Artikel über [Elementary OS](http://elemantaryos.org). 
 Auf Grundlage von [Ubuntu](http://ubuntu.com) entstand [Elemantary OS](http://elemantaryos.org) aus dem gleichnamigen Theme Elementary. Die Absicht hinter [Elemantary OS](http://elemantaryos.org) ist ein einheitliches und klares Erscheinungsbild für den Nutzer, dass dazu auch noch flüssig laufen soll. 

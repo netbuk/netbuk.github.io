@@ -2,7 +2,7 @@
 layout: page
 title: Impressum
 permalink: /impressum/
-banner_image: blog1.jpg
+banner_image: blog.jpg
 banner_image_alt: Impressum
 ---
 

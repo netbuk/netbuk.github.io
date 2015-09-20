@@ -8,7 +8,7 @@ comments: true
 ---
 Nach dem großen Update Tag am Freitag wollte Conky nicht mehr starten. Manuell über Terminal ausgeführt, bekam ich immer folgende Meldung angezeigt
 {% highlight sh %}
-	conky: error while loading shared libraries: libncursesw.so.5: cannot open shared object file ...
+conky: error while loading shared libraries: libncursesw.so.5: cannot open shared object file ...
 {% endhighlight %}
 Meine Vermutung lag darin, das ncurses auf v6 gehoben wurde, conky aber noch auf v5 zugreift (welches nicht mehr da ist).
 

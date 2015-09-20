@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  "amazon instand video on linux"
-date:   2015-05-24 
+date:   2015-05-24
+banner_image: media.jpg
 comments: true
 ---
 

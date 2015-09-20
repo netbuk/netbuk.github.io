@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Conky startet nicht nach großem Update (Arch Linux)"
-date:   2014-08-05 
+date:   2015-09-20 
 banner_image: arch.png
 categories: linux os arch update
 comments: true

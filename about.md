@@ -12,7 +12,7 @@ Ich liebes es auf [Steam][Steam] zu zocken und lasse mittlerweile Windows links 
 
 ### Contact me
 
-Sag `Hello` auf christian@netbuk.de oder finde
+Sag `Hello` auf christian(at)netbuk.de oder finde
 mich auf 
 
 ---

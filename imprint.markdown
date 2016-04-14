@@ -32,6 +32,7 @@ E-Mail: christian.kantelberg{ät}mailbox.org *(statt “{ät}“, bitte “@” 
 Der öffentliche Schlüssel kann von meinem [Server](http://www.c3ko.de/storage/openkey_email.asc) oder über das [Massachusetts Institute of Technology (MIT)](https://pgp.mit.edu/) (https://pgp.mit.edu/pks/lookup?op=get&search=0x574E042F0F9A71C9) heruntergeladen werden.<br />
 
 Erreichbar bin ich auch per
+
 - Telefon: +49 (0) 176 5678 zero four eight 3 (D1 Telekom)<br />
 - Twitter: [twitter.com/der__k](http://twitter.com/der__k)
 - GitHub: [github.com/netbuk](https://github.com/netbuk)

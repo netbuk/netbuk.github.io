@@ -1,0 +1,21 @@
+---
+---
+
+> Dieser Artikel wurde aus dem Pagekit Blog übernommen!
+
+Nachdem ich beschlossen habe meine produktiven Systeme auf einen Uberspace zu transferieren, kam es mir sehr gelegen ein paar Softwaretools auzuprobieren, die ich noch auf Wiedervorlage hatte. Im Fokus standen Yellow, Kirby und Pagekit.
+
+[Kirby](https://getkirby.com/) ist an sich ein sehr mächtiges Flatfile CMS. Wer nur Seiten erstellen möchte, kommt sehr schnell zum Ziel. Für Widgets wie eine Blog, muss man schon Hand anlegen und sich mit dem Handlungshilfen auseinander setzen. Kirby kann ausgiebig getestet werden. Für einen produktiven Einsatz ist aber eine Lizenz notwendig. Meiner Meinung ein gutes CMS für Vereine und kleine bis mittelständische Betriebe bestens geeignet.
+
+[Yellow](http://datenstrom.se/yellow/) kommt aus Schweden und hat einen sehr interessanten Ansatz. Der Markdowneditor wird direkt auf der zu bearbeitenden Seite geöffnet. Ein Backend sucht man vergeblich. 
+Yellow ist sehr klar und einfach strukturiert. In der Dokumentation finden man neben englischen Hilfen auch erste deutsche Übersetzungen. 
+Das CMS ist was für Experimentierfreudige mit dem Hang zu klaren Strukturen. Von der OnePageSite bis zu einem Wiki ist mit Yellow alles möglich.
+
+[Pagekit](https://pagekit.com) ist ebenfalls aus dem Norden und wird in Hamburg entwickelt. Es fällt von den 3 genannten CMS aus dem Rahmen, da es nicht ohne eine Datenbank auskommt. Benötigt wird entweder MySQL oder SQlite 3. Mit der Grundinstallation kann man bereits ähnliche Seiten wie die beiden o.a. CMS aufbauen. Der integrierte Marketplace bietet dem Administrator die Möglichkeit Extensions und Themes direkt zu installieren. Die Extension Blog bringt ein eigenes Kommentarsystem mit, was ich sehr positiv finde, da man auf keine externen Anbieter wie z.B. Diqus angewiesen ist. Das Benutzer und Rechtesystem bietet viele Möglichkeiten. Ein leckerbissen ist auch der Medienbereich. Dort können Ordnerstrukturen angelegt und Dateien, Fotos und andere Medien abgelegt werden.
+Das System eignet sich ebenfalls für kleine private Webauftritte, wie meiner hier, wie auch für Verein- / Firemseiten. Durch die Rechtevergabe können interne und externe Informationsbereiche aufgebaut und einfach betrieben werden.
+
+Zu guter letzt noch der Hinweis, diese Seite wie auch das [Wiki](http://wiki.c3ko.de) und der [Pastebin](http://0bin.c3ko.de) sind nur mittels SSL zu erreichen. Die Seite Bikandhike wird noch entsprechend in de nächsten Tagen auf SSL konfiguriert.
+
+Alle vorherigen Artikel hier im Blog, habe ich aus meiner alten Ghost-Installation übernommen. Also nicht wundern ;)
+
+[Kommentare bitte über das C3KO-Forum](http://forum.c3ko.de/index.php?p=/discussion/6/kommentar-thread-zum-blogbeitrag-another-place-another-tool#latest)

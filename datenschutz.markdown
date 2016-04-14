@@ -2,7 +2,7 @@
 layout: page
 title: Datenschutz
 author: C3KO
-permalink: /imprint/datenschutz
+permalink: /datenschutz
 ---
 
 ### Datenschutzerklärung

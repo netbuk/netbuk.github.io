@@ -2,7 +2,7 @@
 layout: page
 title: Urheber
 author: C3KO
-permalink: /imprint/urheber
+permalink: /urheber
 ---
 
 Der Autor ist bestrebt, in allen Publikationen die Urheberrechte der verwendeten Grafiken, Tondokumente, Videosequenzen und Texte zu beachten, von ihm selbst erstellte Grafiken, Tondokumente, Videosequenzen und Texte zu nutzen oder auf lizenzfreie Grafiken, Tondokumente, Videosequenzen und Texte zurückzugreifen.

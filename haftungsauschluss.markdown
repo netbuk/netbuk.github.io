@@ -2,7 +2,7 @@
 layout: page
 title: Haftungsausschluß
 author: C3KO
-permalink: /imprint/haftungsausschluss
+permalink: /haftungsausschluss
 ---
 
 ### § 1 Haftungsbeschränkung

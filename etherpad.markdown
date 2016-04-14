@@ -2,7 +2,7 @@
 layout: page
 title: Nutzungsbedingungen Etherpad
 author: C3KO
-permalink: /imprint/etherpad
+permalink: /etherpad
 ---
 
 1. Es steht jedem frei das Pad zu nutzen.

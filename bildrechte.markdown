@@ -2,7 +2,7 @@
 layout: page
 title: Bildrechte
 author: C3KO
-permalink: /imprint/bildrechte
+permalink: /bildrechte
 ---
 
 * Refe (getrefe.com) - [royalty-free license](http://getrefe.com/license/)

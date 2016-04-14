@@ -18,4 +18,4 @@ permalink: /imprint/bildrechte
 * Subtlepatterns (subtlepatterns.com) - [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/)
 * Ubuntu Design (http://design.ubuntu.com/) - Copyright® „Ubuntu is a registered trademark of Canonical Ltd.“
 
-*[zurück zum Impressum](/imprint)*
+*[zurück zum Impressum](imprint)*

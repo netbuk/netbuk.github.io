@@ -13,4 +13,4 @@ permalink: /imprint/etherpad
 6. Die Pads werden in unregelmäßigen Abständen überprüft. Leere Pads werden unverzüglich gelöscht. Sollte festgestellt werde, dass Pads längere zeit nicht mehr genutzt worden sind, werden diese im Wiki veröffentlicht. Der Urheber hat dann Zeit sich mit mir in Verbindung zu setzen. Es besteht die Möglichkeit die Inhalte dann im Wiki zu archivieren. Ansonsten werden die Pads nach rücksprache oder wenn der Urheber nicht reagiert, gelöscht.
 7. Es gibt keinen Anspruch auf ständige Erreichbarkeit von Etherpad lite. Der Betreiber behält sich vor, das Angebot jederzeit und ohne Angabe von Gründen, offline zu stellen bzw. zu löschen. Eine automatisierte Archivierung der Inhalte erfolgt nicht. Grundsätzlich ist der Urheber eines Pads für die Archivierung selbst verantwortlich.
 8. Es dürfen keine Viren, Links, Programme oder sonstige Verfahren angewandt oder verbreitet werden, mit denen Schaden gegenüber dritten ausgeübt werden können.
-*[zurück zum Impressum](/imprint)*
+*[zurück zum Impressum](imprint)*

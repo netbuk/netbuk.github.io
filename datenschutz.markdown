@@ -82,4 +82,4 @@ Wenn ein Nutzer Facebookmitglied ist und nicht möchte, dass Facebook über dies
 ### Auskunftsrecht
 Sie haben das jederzeitige Recht, sich unentgeltlich und unverzüglich über die zu Ihrer Person erhobenen Daten zu erkundigen. Sie haben das jederzeitige Recht, Ihre Zustimmung zur Verwendung Ihrer angegeben persönlichen Daten mit Wirkung für die Zukunft zu widerrufen. Zur Auskunftserteilung wenden Sie sich bitte an den Anbieter unter den Kontaktdaten im Impressum.
 
-*[zurück zum Impressum](/imprint)*
+*[zurück zum Impressum](imprint)*

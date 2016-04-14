@@ -13,4 +13,4 @@ Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unt
 
 Publikationen, die nicht in meinem Eigentum sind (zur Quelle verlinkt), dienen lediglich der Kommentierung und werden nicht für kommerzielle Zwecke genutzt (Zitate). Falls Sie einen Inhalt auffinden, der Ihr Eigentum (Urheber) ist, der entfernt werden soll, wenden Sie sich bitte umgehend und direkt über die im Impressum angegebenen Kontaktdaten bzw. der unter Kontakte aufgeführten Kontaktmöglichkeiten. Ich werde nach erreichen der Meldung umgehend die entsprechende Publikation (Bild, Text, etc.) prüfen und entfernen. Man muss nicht immer über einen Rechtsbeistand kommunizieren.
 
-*[zurück zum Impressum](/imprint)*
+*[zurück zum Impressum](imprint)*

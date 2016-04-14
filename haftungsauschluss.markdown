@@ -21,4 +21,4 @@ Soweit besondere Bedingungen für einzelne Nutzungen dieser Website von den vorg
 
 *Quelle: Impressum-Vorlage von [www.juraforum.de](http://www.juraforum.de)*
 
-*[zurück zum Impressum](/imprint)*
+*[zurück zum Impressum](imprint)*

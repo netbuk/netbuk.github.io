@@ -2,7 +2,7 @@
 layout: page
 title: Impressum
 author: C3KO
-permalink: /imprint/
+permalink: /imprint
 ---
 
 #### Angaben gemäß §5 TMG (Telemediengesetz) und Verantwortlichkeit für den Inhalt (gem. § 55 Abs. 2 RStV):

@@ -113,7 +113,7 @@ Here's a "line block":
 
 and images can be specified like so:
 
-![example image](images/van-gogh.jpg)
+![example image](images/posts/2016-02-10/van-gogh.jpg)
 
 $$I = \int \rho R^{2} dV$$
 

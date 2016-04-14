@@ -1,11 +1,11 @@
 ---
 layout: about
-title: accent
-author: Ankit Sultana
+title: about
+author: C3KO
 permalink: /about
 ---
 
-Hi! My name is yourname!
+Hi! My name is Christian!
 
 > One shalt not speak shakespearean, or brocolli McDonalds
 

@@ -9,11 +9,11 @@ permalink: /imprint
 ![Adresse](images/Adresse.png)
 
 #### Rechtliche Informationen und weiteres
-- [Bildrechte](@page/7)
-- [Haftungsausschluss](@page/8)
-- [Urheber](@page/10)
-- [Datenschutz](@page/12)
-- [Nutzungshinweis Etherpad](@page/9)
+- [Bildrechte](/imprint/bildrechte)
+- [Haftungsausschluss](/imprint/haftungsauschluss)
+- [Urheber](/imprint/urheber)
+- [Datenschutz](/imprint/datenschutz)
+- [Nutzungshinweis Etherpad](/imprint/etherpad)
 
 #### Kontakt
 **Ihr habt Fragen zum Blog, Wiki oder zu den Inhalten?**<br />

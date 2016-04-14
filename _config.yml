@@ -45,14 +45,14 @@ github_username: netbuk
 favicon: true
 favicon_location: "images/favicon.ico"
 
-profile_picture: images/c3ko.png
+profile_picture: /images/c3ko.png
 paginate: 5
 paginate_path: "/page/:num"
 #tracking_id: UA-69243698-7 # GA Tracking ID
 
 # Social Stuff | open graph and twitter cards
-og_image: "images/c3ko.png" # This will show in facebook thumbnails images/accent.png
-twitter_image: "images/c3ko.png" # This will show in twitter cards
+og_image: "./images/c3ko.png" # This will show in facebook thumbnails images/accent.png
+twitter_image: "./images/c3ko.png" # This will show in twitter cards
 
 ####################################
 ####################################

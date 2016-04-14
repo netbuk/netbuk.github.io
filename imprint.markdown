@@ -10,7 +10,7 @@ permalink: /imprint
 
 #### Rechtliche Informationen und weiteres
 - [Bildrechte](/bildrechte)
-- [Haftungsausschluss](/haftungssauschluss)
+- [Haftungsausschluss](/haftungsausschluss)
 - [Urheber](/urheber)
 - [Datenschutz](/datenschutz)
 - [Nutzungshinweis Etherpad](/etherpad)

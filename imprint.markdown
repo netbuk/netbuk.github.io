@@ -5,17 +5,17 @@ author: C3KO
 permalink: /imprint
 ---
 
-### Angaben gemäß §5 TMG (Telemediengesetz) und Verantwortlichkeit für den Inhalt (gem. § 55 Abs. 2 RStV):
+#### Angaben gemäß §5 TMG (Telemediengesetz) und Verantwortlichkeit für den Inhalt (gem. § 55 Abs. 2 RStV):
 ![Adresse](images/Adresse.png)
 
-### Rechtliche Informationen und weiteres
+#### Rechtliche Informationen und weiteres
 - [Bildrechte](@page/7)
 - [Haftungsausschluss](@page/8)
 - [Urheber](@page/10)
 - [Datenschutz](@page/12)
 - [Nutzungshinweis Etherpad](@page/9)
 
-### Kontakt
+#### Kontakt
 **Ihr habt Fragen zum Blog, Wiki oder zu den Inhalten?**<br />
 **Ich habe versehentlich euer Copyright oder Ursprung nicht aufgeführt?**<br />
 **Ihr habt Probleme mit den Downloads oder Fragen zu den Strecken?**

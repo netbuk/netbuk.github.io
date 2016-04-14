@@ -45,19 +45,19 @@ about_footer: true
 
 twitter_username: der__k
 github_username: netbuk
-#facebook_id: christiankantelberg
+facebook_id: christian.kantelberg
 
 favicon: true
 favicon_location: "images/favicon.ico"
 
-profile_picture: https://lh3.googleusercontent.com/-K2plevR2_-Q/AAAAAAAAAAI/AAAAAAABP0s/yCXMqeYaKYA/s60-p-rw-no/photo.jpg #images/temp.png
+profile_picture: images/c3ko.png
 paginate: 5
 paginate_path: "/page/:num"
 #tracking_id: UA-69243698-7 # GA Tracking ID
 
 # Social Stuff | open graph and twitter cards
-og_image: "https://pbs.twimg.com/profile_images/712906531638001664/ZZ-clHzq_400x400.jpg" # This will show in facebook thumbnails images/accent.png
-twitter_image: "https://pbs.twimg.com/profile_images/712906531638001664/ZZ-clHzq_400x400.jpg" # This will show in twitter cards
+og_image: "images/c3ko.png" # This will show in facebook thumbnails images/accent.png
+twitter_image: "images/c3ko.png" # This will show in twitter cards
 
 ####################################
 ####################################

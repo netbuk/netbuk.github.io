@@ -34,7 +34,7 @@ comments: true
 # Note that about_footer should be true if you want
 # to see author information at the bottom of each post
 about_stub: >
-    Jykell-Blogger, Serveradmin, <a href="https://www.archlinux.de/" target="_blank"Arch</a>User & likes <a href="https://uberspace.de" target="_blank">Uberspace - Hosting on Astroids</a> 
+    Jykell-Blogger, Serveradmin, <a href="https://www.archlinux.de/" target="_blank"><b>Arch</b></a>User & likes <a href="https://uberspace.de" target="_blank"><b>Uberspace</b> - Hosting on Astroids</a> 
 
 about_footer: true
 

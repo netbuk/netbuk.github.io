@@ -1,0 +1,3 @@
+[submodule "themes/slender"]
+	path = themes/slender
+	url = ../../CrimsonRay/slender

@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: page
 title: Impressum
 author: C3KO
 permalink: /imprint

@@ -1,0 +1,24 @@
+---
+title: Evernote vs. Linux
+---
+
+[Evernote](https://www.evernote.com) und Linux, zwei Welten treffen aufeinander.
+Leider gibt es keine native Version für Linux. Da heißt es improvisieren oder auf Third-Party Programme zurückgreifen.
+Hier meine bisherigen Erlebnisse, nach meinem Wechsel zu Linux als ständiger Begleiter, Evernote halbwegs vernünftig unter Ubuntu nutzen zu können.
+
+Aus dem Windowsbereich hatte ich noch das [Addon für Thunderbird](https://addons.mozilla.org/de/thunderbird/addon/evernote-tab/) zu Hand, welches ich ohne Probleme unter Thunderbird (Linux) installieren konnte. An sich eine gute App, aber teilweise sind die Ladezeiten schon nervend.
+
+Kurz darauf habe ich mir [Evernote mittels Wine](http://www.bitpage.de/2014/tutorial-anleitung/evernote-unter-linux-nutzen) auf die Linuxmaschine installiert. Funktioniert soweit auch, aber gerade bei dieser Variante der Nutzung schlägt die Ladezeit extrem zu. Dazu kommt noch, das Einstellung nciht gespeichert werden, was auf Dauer nervt. Die Ordnerüberwachung und automatische Hochladen von Inhalten scheint hierbei auch nicht zu funktionieren (zumindest nicht bei mir).
+
+Also weiter gesucht und [Everpad](https://github.com/nvbn/everpad/wiki/how-to-install) gefunden. Dieses Programm integriert sich wunderbar in Ubuntu und startet direkt beim Booten. Leider wird nur ein geringer Teil der Notizen, die Notizbücher sind alle da, synchronisiert. Trotz manuellem Auffordern tut sich nichts. Also auch nichts für die täglich arbeit.
+
+Zu guter Letzt viel mir das gute alte [Nevernote bzw. Nixnote](http://sourceforge.net/projects/nevernote) ein. Mit der stable Version hatte ich in der Vergangenheit schon gearbeitet. Unter Sourceforge konnte ich eine Version 2 Beta 2 entdecken. Also Mut zur Lücke und installiert. 
+
+Auf den ersten Blick macht die Version 2 einen guten Eindruck. Leider ist die Weiterentwicklung bei Nixnote sehr zäh. Zumindest macht das den Anschein, wenn man den letzten Mofify für diese Beta (05-05-2014) sieht.
+Warten wir ab und schauen wie die Beta 2 sich im täglichen Durcheinander schlägt.
+
+Edit sagt:
+Das Projekt Version 2 Beta 2 habe ich nach kurzer Laufzeit heute morgen beendet. Grund, nach fast 24h ist nicht eine Notiz synchronisiert. 
+Damit ist diese Version nichts für meinen Arbeitsalltag. Mein zweiter Versuch gilt nun der Version 1.6.
+
+[Kommentare bitte über das C3KO-Forum](http://forum.c3ko.de/index.php?p=/discussion/15/kommentar-thread-zum-blogbeitrag-evernote-vs-linux#latest)

@@ -13,5 +13,3 @@ Wenn man dem [Twitter-Stream](https://twitter.com/intent/follow?original_referer
 Leider befindet sich dieses tolle Programm nicht im Softwarecenter von [Ubuntu](http://ubuntu.com), daher könnt ihr es nur manuell installieren. Aber ich bin guter Dinge, dass diese Hürde auch genommen wird.
 
 ![Remarkable](storage/Blog.Stuff/Remarkable/remarkable.png)
-
-[Kommentare bitte über das C3KO-Forum](http://forum.c3ko.de/index.php?p=/discussion/18/kommentar-thread-zum-blogbeitrag-markdown-editor-fuer-linux#latest)

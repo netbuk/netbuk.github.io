@@ -8,5 +8,3 @@ Nachdem ich gestern den Markdown Editor [Remarkable](http://http://remarkableapp
 Beim Lesen und Stöbern auf [LinuxUndIch.de](http://LinuxUndIch.de) bin ich auf diesen tollen Editor gestoßen. Da Christoph Langner ausführlich über den Editor in seinem Blogbeitrag berichtet, spare ich mir weitere Ausführungen und verweise auf seinen [Beitrag](http://linuxundich.de/gnu-linux/texte-markdown-syntax-live-ansicht-haroopad-verfassen/).
 
 ![Haroopad](images/posts/2015-01-15/haroopad.png)
-
-[Kommentare bitte über das C3KO-Forum](http://forum.c3ko.de/index.php?p=/discussion/16/kommentar-thread-zum-blogbeitrag-a-pinch-of-korean#latest)

@@ -22,5 +22,3 @@ Vorteil gegenüber der andere Variante,
 - geänderte Dateien werden als einzelne Notiz in Evernote eingefügt. Dadurch hat man die älteren Versionen der .kdbx noch immer zur Verfügung (Stichwort: Versionisierung).
 
 Da die .kdbx Datei an sich nicht besonders groß ist, stellt das auch kein Hindernis da, wenn man Evernote nur in der Freeversion nutzt.
-
-[Kommentare bitte über das C3KO-Forum](http://forum.c3ko.de/index.php?p=/discussion/19/kommentar-thread-zum-blogbeitrag-keepass-meets-evernote#latest)

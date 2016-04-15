@@ -11,6 +11,3 @@ Nachdem ich meine Browserfavoriten heute mal ausgemistet habe, sind mir einige L
 * [Jpberlin.de](http://Jpberlin.de)
 * [MyKolab.com](http://MyKolab.com)
 * [Hushmail.com](http://Hushmail.com)
-
-[Kommentare bitte über das C3KO-Forum](http://forum.c3ko.de/index.php?p=/discussion/22/kommentar-thread-zum-blogbeitrag-save-your-mail#latest)
-

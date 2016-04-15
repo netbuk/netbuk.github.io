@@ -24,5 +24,3 @@ Die Antwort ist nicht eindeutig. Er kann zwischen 25 und 40 Spieltagen (entspric
 
 - [Steam](http://store.steampowered.com/app/282070/) 
 - [11 bit studios](http://www.11bitstudios.com/games/16/this-war-of-mine)
-
-[Kommentare bitte über das C3KO-Forum](http://forum.c3ko.de/index.php?p=/discussion/20/kommentar-thread-zum-blogbeitrag-the-war-is-over#latest)

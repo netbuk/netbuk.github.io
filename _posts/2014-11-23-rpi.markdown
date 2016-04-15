@@ -21,5 +21,3 @@ Nachdem ich mich aber ein wenig umgeschaut und eingelesen habe, werde ich die Ka
 
 Danach geht es dann in Richtung Media Center uvm.
 Mal schauen wo mich der kleine Pi noch hinbringt ...
-
-[Kommentare bitte über das C3KO-Forum](http://forum.c3ko.de/index.php?p=/discussion/21/kommentar-thread-zum-blogbeitrag-my-pi#latest)

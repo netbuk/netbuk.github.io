@@ -10,5 +10,3 @@ Unter [www.initiative-netzqualitaet.de](http://www.initiative-netzqualitaet.de) 
 #### Die Tests
 * [Breitband-Test](http://www.initiative-netzqualitaet.de/zum-test/)
 * [Netzneutralitäts-Test](http://www.initiative-netzqualitaet.de/netzneutralitaetstest/)
-
-[Kommentare bitte über das C3KO-Forum](http://forum.c3ko.de/index.php?p=/discussion/25/kommentar-thread-zum-blogbeitrag-netzneutralitaet-qualitaet#latest)

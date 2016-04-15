@@ -50,5 +50,3 @@ Zuerst muss man die vorhandene virtuelle Festplatte klonen und dabei den Klon au
 
 Natürlich befindet man sich dazu mittels Terminal im Ordner, den die virtuelle Festplatte beherrbergt.
 Dieser Vorgang kann je nach Größe etwas Zeit in Anspruch nehmen. Natürlich gilt auch hier wieder, dass genügend Speicherplatz auf dem HOST zur Verfügung stehen muss. Anschließend kann man wie bereits oben beschrieben, den Speicherplatz erweitern.
-
-[Kommentare bitte über das C3KO-Forum](http://forum.c3ko.de/index.php?p=/discussion/17/kommentar-thread-zum-blogbeitrag-windows-in-the-box#latest)

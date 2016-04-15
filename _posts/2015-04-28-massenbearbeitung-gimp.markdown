@@ -1,5 +1,5 @@
 ---
-title: Massenbearbeitung von Bildern in posts/2015-04-28
+title: Massenbearbeitung von Bildern in Gimp
 ---
 
 Wer kennt das nicht. Es hat sich eine Menge an Bildern und Fotos angesammelt und man möchte diese zum Beispiel für einen Blog oder eine Webgallerie, am besten alle auf einmal, skalieren. Unter Photoshop kann man dafür Droplets erstellen, die dann diese Massen-/ Stapelverarbeitung durchführen. Wer aber nicht mit Photoshop arbeiten möchte (aus welchen Gründen auch immer), kann auf posts/2015-04-28 zurückgreifen.
@@ -13,7 +13,7 @@ Da ich für meinen Blog verschiedene Header-Fotos nutze, die aber eine Größe v
 Dazu rufen wir den Batch Process auf (siehe Pfad oben). Es erscheint ein kleines Fenster. Der Text ist in Englisch, was m.E. nicht weiter schlimm ist (kurze Erklärung der Reiter ist am Ende des Artikels angefügt).
 Zuerst laden wir uns auf dem Reiter **Input -> Add Files** die zu bearbeitenden Fotos in das Programm.
 
-![Bildschirmfoto David s Batch Processor1](images/Blog.Stuff/posts/2015-04-28/Bildschirmfoto-David-s-Batch-Processor1.png)
+![Bildschirmfoto David s Batch Processor1](images/posts/2015-04-28/Bildschirmfoto-David-s-Batch-Processor1.png)
 
 Dabei ist m.E. darauf zu achten, dass die Fotos die gleichen Seitenverhältnisse haben. Das erleichtert das weitere Einstellen.
 
@@ -32,7 +32,7 @@ Da die gewählten Fotos das gleiche Seitenverhältnis haben, entscheiden wir uns
 
 Nachdem wir nun die vorzunehmende Skalierung eingestellt haben, müssen wir noch einen Speicherort und/oder eine andere Dateibenennung vornehmen. Dazu gehen wir auf den Reiter **Rename**. Hier haben wir die Möglichkeit einen entsprechenden Ordner anzugeben (Select Dir) oder ein Prefix für die bearbeitenden Fotos anzugeben. M.E. ist die beste Variante immer ein neuer Speicherort, sprich einen neuen Ordner anzugeben. Dazu klicken wir auf **Select Dir** und wählen den Ordner wo das Programm die bearbeiteten Fotos speichern soll aus.
 
-![Bildschirmfoto David s Batch Processor3](images/Blog.Stuff/posts/2015-04-28/Bildschirmfoto-David-s-Batch-Processor3.png)
+![Bildschirmfoto David s Batch Processor3](images/posts/2015-04-28/Bildschirmfoto-David-s-Batch-Processor3.png)
 
 Wenn ihr die bearbeiteten Fotos im gleichen Ordner wir die Quellfotos abspeichern wollt, wählt **Source Dir** und tragt ein **Prefix** oder **Postfix** ein (pre => davor; post => danach). 
 Der darunterliegende Bereich Example zeigt euch gleich an, wie sich eure Auswahl auswirkt.
@@ -46,7 +46,7 @@ Mit den darunter befindlichen Einstellungen könnt ihr noch das eine und andere 
 
 Zu guter Letzt gehen wir auf den Reiter **Output** um das Format und dazugehörige Einstellungen vorzunehmen. Hier wählen wir in unserem Beispiel das **Format .jpg** mit einer **Quality von 1,00 (100%)**. Die hier aufgeführten Einstellungsmöglichkeiten sind die gleichen wie beim Exportieren in posts/2015-04-28. Daher gehe ich darauf auch nicht weiter ein.
 
-![Bildschirmfoto David s Batch Processor4](images/Blog.Stuff/posts/2015-04-28/Bildschirmfoto-David-s-Batch-Processor4.png)
+![Bildschirmfoto David s Batch Processor4](images/posts/2015-04-28/Bildschirmfoto-David-s-Batch-Processor4.png)
 
 Jetzt Starten wir die Verarbeitung mit dem **Start-Button**. Wer sich anschauen möchte wie posts/2015-04-28 den Prozess abarbeitet, der kann noch **Show Images** aktivieren.
 So bald dann der Ladebalken durchgelaufen ist und darüber *--done--* steht, ist der Prozess beendet und alle Fotos sollten in das gewünschte Format skaliert sein.

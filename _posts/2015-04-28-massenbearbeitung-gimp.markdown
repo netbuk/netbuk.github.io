@@ -51,7 +51,7 @@ Zu guter Letzt gehen wir auf den Reiter **Output** um das Format und dazugehöri
 Jetzt Starten wir die Verarbeitung mit dem **Start-Button**. Wer sich anschauen möchte wie posts/2015-04-28 den Prozess abarbeitet, der kann noch **Show Images** aktivieren.
 So bald dann der Ladebalken durchgelaufen ist und darüber *--done--* steht, ist der Prozess beendet und alle Fotos sollten in das gewünschte Format skaliert sein.
 
-###Reiterbeschriftung (Eng-Deu)
+### Reiterbeschriftung (Eng-Deu)
 
 * Input => Eingabe (Bildquelle festlegen)
 * Turn => Drehen
@@ -62,5 +62,3 @@ So bald dann der Ladebalken durchgelaufen ist und darüber *--done--* steht, ist
 * Sharpen => Schärfen
 * Rename => Dateibenennung und Ausgabeort
 * Output => Ausgabeformat und Eigenschaften
-
-[Kommentare bitte über das C3KO-Forum](http://forum.c3ko.de/index.php?p=/discussion/10/kommentar-thread-zum-blogbeitrag-decrease-with-mass-processing-in-posts/2015-04-28#latest)

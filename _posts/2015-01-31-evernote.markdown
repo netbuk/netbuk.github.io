@@ -3,6 +3,7 @@ title: Evernote vs. Linux
 ---
 
 [Evernote](https://www.evernote.com) und Linux, zwei Welten treffen aufeinander.
+
 Leider gibt es keine native Version für Linux. Da heißt es improvisieren oder auf Third-Party Programme zurückgreifen.
 Hier meine bisherigen Erlebnisse, nach meinem Wechsel zu Linux als ständiger Begleiter, Evernote halbwegs vernünftig unter Ubuntu nutzen zu können.
 
@@ -20,5 +21,3 @@ Warten wir ab und schauen wie die Beta 2 sich im täglichen Durcheinander schlä
 Edit sagt:
 Das Projekt Version 2 Beta 2 habe ich nach kurzer Laufzeit heute morgen beendet. Grund, nach fast 24h ist nicht eine Notiz synchronisiert. 
 Damit ist diese Version nichts für meinen Arbeitsalltag. Mein zweiter Versuch gilt nun der Version 1.6.
-
-[Kommentare bitte über das C3KO-Forum](http://forum.c3ko.de/index.php?p=/discussion/15/kommentar-thread-zum-blogbeitrag-evernote-vs-linux#latest)

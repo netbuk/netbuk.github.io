@@ -95,5 +95,3 @@ Der Erste Teil unter *[Desktop Entry]* gibt ein paar grundlegende Dinge an, wie 
 Das Icon ist in meinem Beispiel unter dem Ordner **~/.icons** gespeichert. Verwenden könnt ihr PNG oder noch besser SVG-Zeichnung.
 
 Mehr Informationen, Hintergrundwissen und weitere Beispiele findet ihr unter [wiki.ubuntuusers.de/.desktop-Dateien](http://wiki.ubuntuusers.de/.desktop-Dateien).
-
-[Kommentare bitte über das C3KO-Forum](http://forum.c3ko.de/index.php?p=/discussion/12/kommentar-thread-zum-blogbeitrag-quicklinks-in-unity-launcher#latest)

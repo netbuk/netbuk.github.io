@@ -22,7 +22,7 @@ copyright: C3KO
 intro: true         # Tip: Remove the span from site_heading if intro is set to true
 # This will be displayed in your intro
 short_bio: >
-    Willkommen auf meinem kleinen aber feinen <a href="http://jykellrb.com" target="_blank">Jykell</a> <span>Blog</span>, <span>gehostet</span> auf <a href="https://github.com" target="_blank">GitHub</a>. 
+    Willkommen auf meinem kleinen aber feinen <a href="http://jekyllrb.com" target="_blank">Jekyll</a> <span>Blog</span>, <span>gehostet</span> auf <a href="https://github.com" target="_blank">GitHub</a>.
 
 permalink: /:title.html
 
@@ -34,7 +34,7 @@ comments: true
 # Note that about_footer should be true if you want
 # to see author information at the bottom of each post
 about_stub: >
-    Jykell-Blogger, Serveradmin, <a href="https://www.archlinux.de/" target="_blank"><b>Arch</b></a>User & likes <a href="https://uberspace.de" target="_blank"><b>Uberspace</b> - Hosting on Astroids</a> 
+    Jykell-Blogger, Serveradmin, <a href="https://www.archlinux.de/" target="_blank"><b>Arch</b></a>User & likes <a href="https://uberspace.de" target="_blank"><b>Uberspace</b> - Hosting on Astroids</a>
 
 about_footer: true
 

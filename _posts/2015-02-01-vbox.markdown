@@ -1,5 +1,5 @@
 ---
-title:Kernel-Update vs. Virtualbox
+title: Kernel-Update vs. Virtualbox
 ---
 
 #### Schock-Moment!

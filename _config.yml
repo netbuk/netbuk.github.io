@@ -1,22 +1,22 @@
 # User Settings | Edit there as per required
 
-title: C3KO's Blog
-url: "https://blog.c3ko.de"
+title: NETBUK's Blog
+url: "https://netbuk.github.io"
 #baseurl: "/"
 
 # This will show up at the top of index page
 site_heading: >
-    C3KO <span class="faded">'s blog</span>
+    NETBUK <span class="faded">'s blog</span>
 
-email: mailbox@c3ko.de
-author: C3KO
+email: mail@netbuk.dk
+author: NETBUK
 # This description will show up in google search results
 # (for index page) etc.
 description: >
     Jekyll based blog, hosted on github
 
 # This will what will show against &copy; in the footer
-copyright: C3KO
+copyright: NETBUK
 # Toggle your short bio, which will displayed on your index page
 # Just toggle it and run jekyll again to see
 intro: true         # Tip: Remove the span from site_heading if intro is set to true

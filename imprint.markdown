@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Impressum
-author: C3KO
+author: NETBUK
 permalink: /imprint
 ---
 
@@ -29,7 +29,7 @@ Dann scheut euch nicht und schreibt mich an. Meine E-M@il Adresse und auch mein 
 * [Gpg4Win](http://www.gpg4win.de/) (PGP in Outlook)
 
 E-Mail: christian.kantelberg{ät}mailbox.org *(statt “{ät}“, bitte “@” eingeben)* <br />
-Der öffentliche Schlüssel kann von meinem [Server](http://www.c3ko.de/storage/openkey_email.asc) oder über das [Massachusetts Institute of Technology (MIT) ](https://pgp.mit.edu/) (direkt => https://pgp.mit.edu/pks/lookup?op=get&search=0x574E042F0F9A71C9) heruntergeladen werden.<br />
+Der öffentliche Schlüssel über das [Massachusetts Institute of Technology (MIT) ] (https://pgp.mit.edu/) (direkt => https://pgp.mit.edu/pks/lookup?op=get&search=0x574E042F0F9A71C9) heruntergeladen werden.<br />
 
 Erreichbar bin ich auch per
 

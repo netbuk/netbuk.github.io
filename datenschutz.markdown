@@ -55,6 +55,7 @@ Es kann vorkommen, dass innerhalb dieses Onlineangebotes Inhalte Dritter, wie zu
 ## Social Media
 
 ### Datenschutzerklärung für die Nutzung von Google +1
+
 Diese Webseite verwendet die sog. „G +1“-Schaltfläche des sozialen Netzwerkes Google Plus, welches von der Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, United States betrieben wird („Google“). Die Schaltfläche ist an dem Zeichen „G +1“ zu erkennen. Wenn Sie bei Google Plus registriert sind, können Sie mit der „G +1“ Schaltfläche Ihr Interesse an unserer Webseite ausdrücken und Inhalte von unserer Webseite auf Google Plus teilen. In dem Falle speichert Google sowohl die Information, dass Sie für einen unserer Inhalte ein „G +1“ gegeben haben, als auch Informationen über die Seite, die Sie dabei angesehen haben. Ihre „G +1“ können möglicherweise zusammen mit Ihrem Namen (ggf. auch mit Foto - soweit vorhanden) bei Google Plus in weiteren Google-Diensten, wie der Google Suche oder Ihrem Google-Profil, eingeblendet werden. Zweck und Umfang der Datenerhebung und die weitere Verarbeitung und Nutzung der Daten durch Google sowie Ihre diesbezüglichen Rechte und Einstellungsmöglichkeiten zum Schutz Ihrer Privatsphäre entnehmen Sie bitte Googles Datenschutzhinweisen: https://www.google.com/intl/de/policies/privacy/
 
 #### Erfassung und Weitergabe von Informationen:

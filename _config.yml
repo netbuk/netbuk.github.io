@@ -27,14 +27,14 @@ short_bio: >
 permalink: /:title.html
 
 # Comments are powered by disqus
-comments: true
+comments: false
 
 # keep about_stub roughly 12 words long for best results
 # This will show up at the bottom of each post
 # Note that about_footer should be true if you want
 # to see author information at the bottom of each post
 about_stub: >
-    Jykell-Blogger, Serveradmin, <a href="https://www.archlinux.de/" target="_blank"><b>Arch</b></a>User & likes <a href="https://uberspace.de" target="_blank"><b>Uberspace</b> - Hosting on Astroids</a>
+    Blogger, Serveradmin, Mac-/Linux Enthusiast & likes <a href="https://uberspace.de" target="_blank"><b>Uberspace</b> - Hosting on Astroids</a>
 
 about_footer: true
 

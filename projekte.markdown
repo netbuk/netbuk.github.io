@@ -16,9 +16,9 @@ Hier auf der Seite möchte ich kurz die Projekte von mir bzw. an denen ich mitwi
 * Webmaster des Blogs **[netbuk.de](https://netbuk.de)** >> persönlicher Blog & Mainstream
 
 ##### Server & andere Plattformen
-* Betreiben, Pflegen und Administrieren einer Cloudron Instanz auf Digital Ocean Droplet
-* Betreiben, Pflegen und Administrieren eines RaspberryPi als Server für verschiedene Dienste im Büro
-* Betreiben, Pflegen und Administrieren eines BananaPi für Bastelarbeiten jeglicher Art
+* Betreiben, Pflegen und Administrieren einer **[Cloudron](http://cloudron.io)** Instanz auf **[Digital Ocean](http://digitalocean.com)** Droplet
+* Betreiben, Pflegen und Administrieren eines **[RaspberryPi](https://www.raspberrypi.org/)** als Server für verschiedene Dienste im Büro
+* Betreiben, Pflegen und Administrieren eines **[BananaPi](http://www.bananapi.org/)** für Bastelarbeiten jeglicher Art
 * Nutzen von mehreren **[Uberspace](https://uberspace.de) Instanzen** für diverse Projekte
 
 #### Derzeit wirke ich mit bei
@@ -27,6 +27,7 @@ Hier auf der Seite möchte ich kurz die Projekte von mir bzw. an denen ich mitwi
 * Übersetzung Englisch-Deutsch [Nixnote 2](https://github.com/baumgarr/Nixnote2)
 * Übersetzung Englisch-Deutsch [Nixnote 1](https://sourceforge.net/p/nevernote/code/ci/master/tree/)
 * Übersetzung der Dokumentation von [Kanboard](https://github.com/netbuk/kanboard-documentation-de)
+Da ich derzeit eher mit meinem MacBook Pro arbeite, als mit meiner Manajaro Maschine, fehlen mir die notwendigen Mittel um mich mit Nixnote zu beschäftigen. Daneben hält auch hier der Faktor Zeit ein.
 
 ##### Interna
 * Überarbeiten der zentralen [Dokumentation von Tactical Ops unter GitHub](https://github.com/netbuk/TO-Doc)

@@ -27,6 +27,7 @@ Hier auf der Seite möchte ich kurz die Projekte von mir bzw. an denen ich mitwi
 * Übersetzung Englisch-Deutsch [Nixnote 2](https://github.com/baumgarr/Nixnote2)
 * Übersetzung Englisch-Deutsch [Nixnote 1](https://sourceforge.net/p/nevernote/code/ci/master/tree/)
 * Übersetzung der Dokumentation von [Kanboard](https://github.com/netbuk/kanboard-documentation-de)
+
 Da ich derzeit eher mit meinem MacBook Pro arbeite, als mit meiner Manajaro Maschine, fehlen mir die notwendigen Mittel um mich mit Nixnote zu beschäftigen. Daneben hält auch hier der Faktor Zeit ein.
 
 ##### Interna

@@ -8,6 +8,7 @@ permalink: /projects
 Hier auf der Seite möchte ich kurz die Projekte von mir bzw. an denen ich mitwirke aufzeigen.
 
 #### Alltägliches
+
 ##### Webpräsenzen, & Blogs
 * Webmaster der Clan-Webseite **[mop-clan.de](http://mop-clan.net)**, sowie dem dazugehörigen Forum
 * Webmaster der Präsenz **[bikeandhike.eu](https://bikeandhike.eu)** (im Aufbau; Zeitmangel ^^)
@@ -20,7 +21,8 @@ Hier auf der Seite möchte ich kurz die Projekte von mir bzw. an denen ich mitwi
 * Betreiben, Pflegen und Administrieren eines BananaPi für Bastelarbeiten jeglicher Art
 * Nutzen von mehreren **[Uberspace](https://uberspace.de) Instanzen** für diverse Projekte
 
-#### Derzeit wirke ich mit bei 
+#### Derzeit wirke ich mit bei
+
 ##### Externa
 * Übersetzung Englisch-Deutsch [Nixnote 2](https://github.com/baumgarr/Nixnote2)
 * Übersetzung Englisch-Deutsch [Nixnote 1](https://sourceforge.net/p/nevernote/code/ci/master/tree/)

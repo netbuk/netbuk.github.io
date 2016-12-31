@@ -16,6 +16,7 @@ permalink: /imprint
 Diese Präsenz wird auf Github gehostet. Für die technischen Gegebenheiten (Cookies, Logfiles etc) bin ich nicht verantwortlich und habe auch keinen Einfluss darauf.
 
 Mehr dazu findet ihr unter Github´s
+
 - [Terms](https://github.com/site/terms)
 - [Privacy](https://github.com/site/privacy)
 - [Security](https://github.com/site/security)
